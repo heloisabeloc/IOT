@@ -16,7 +16,7 @@ Ao iniciar o ESP32, o programa:
 2. Inicializa o display OLED no endereço `0x3C`.
 3. Define o tamanho e a cor do texto.
 4. Limpa a tela.
-5. Exibe a mensagem **"Leticia Cardoso"** no display.
+5. Exibe a mensagem **"Heloisa Camargo"** no display.
 
 ## 🖥️ Display
 
