@@ -38,7 +38,7 @@ void setup() {
   telaOLED.setCursor(0,10);
 
   //Mensagem
-  telaOLED.println("Leticia Cardoso");
+  telaOLED.println("Heloisa Camargo");
 
   //Envia o conteúdo para o display
   telaOLED.display();
